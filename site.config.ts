@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '20% Time',
-  domain: 'zjl.cool',
+  domain: 'https://angry-tire-e58.notion.site/20-Time-6bec0c76a0f74ddeae36807fae9c92bb',
   author: 'Jialin',
 
   // open graph metadata (optional)
